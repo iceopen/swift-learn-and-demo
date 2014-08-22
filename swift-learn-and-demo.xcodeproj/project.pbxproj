@@ -1,0 +1,149 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		8334FC2C19A1FE0D0040B8C0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 8334FC2719A1FE0C0040B8C0 /* com.iceinto.avoscloud.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 8334FC0519A1FE0C0040B8C0;
+			remoteInfo = com.iceinto.avoscloud;
+		};
+		8334FC2E19A1FE0D0040B8C0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 8334FC2719A1FE0C0040B8C0 /* com.iceinto.avoscloud.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 8334FC1719A1FE0C0040B8C0;
+			remoteInfo = com.iceinto.avoscloudTests;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		8334FC2719A1FE0C0040B8C0 /* com.iceinto.avoscloud.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = com.iceinto.avoscloud.xcodeproj; path = com.iceinto.avoscloud/com.iceinto.avoscloud.xcodeproj; sourceTree = "<group>"; };
+		838BA06919A1F36900ECF13A /* 1b. Type alliases.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1b. Type alliases.playground"; sourceTree = "<group>"; };
+		838BA06A19A1F36900ECF13A /* Automatic Reference Counting.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Automatic Reference Counting.playground"; sourceTree = "<group>"; };
+		838BA06B19A1F36900ECF13A /* Classes and Structures.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Classes and Structures.playground"; sourceTree = "<group>"; };
+		838BA06C19A1F36900ECF13A /* Extensions.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Extensions.playground; sourceTree = "<group>"; };
+		838BA06D19A1F36900ECF13A /* Generics.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Generics.playground; sourceTree = "<group>"; };
+		838BA06E19A1F36900ECF13A /* Inheritance.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Inheritance.playground; sourceTree = "<group>"; };
+		838BA06F19A1F36900ECF13A /* Initialization.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Initialization.playground; sourceTree = "<group>"; };
+		838BA07019A1F36900ECF13A /* Methods.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Methods.playground; sourceTree = "<group>"; };
+		838BA07119A1F36900ECF13A /* Nested Types.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Nested Types.playground"; sourceTree = "<group>"; };
+		838BA07219A1F36900ECF13A /* Optional Chaining.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Optional Chaining.playground"; sourceTree = "<group>"; };
+		838BA07319A1F36900ECF13A /* Properties.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Properties.playground; sourceTree = "<group>"; };
+		838BA07419A1F36900ECF13A /* Subscripts.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Subscripts.playground; sourceTree = "<group>"; };
+		838BA07519A1F36900ECF13A /* Type Casting.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Type Casting.playground"; sourceTree = "<group>"; };
+		838BA07619A1F5F800ECF13A /* A Swift Tour.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "A Swift Tour.playground"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		8334FC2819A1FE0C0040B8C0 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8334FC2D19A1FE0D0040B8C0 /* com.iceinto.avoscloud.app */,
+				8334FC2F19A1FE0D0040B8C0 /* com.iceinto.avoscloudTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		838BA06119A1F31400ECF13A = {
+			isa = PBXGroup;
+			children = (
+				8334FC2719A1FE0C0040B8C0 /* com.iceinto.avoscloud.xcodeproj */,
+				838BA07619A1F5F800ECF13A /* A Swift Tour.playground */,
+				838BA06919A1F36900ECF13A /* 1b. Type alliases.playground */,
+				838BA06A19A1F36900ECF13A /* Automatic Reference Counting.playground */,
+				838BA06B19A1F36900ECF13A /* Classes and Structures.playground */,
+				838BA06C19A1F36900ECF13A /* Extensions.playground */,
+				838BA06D19A1F36900ECF13A /* Generics.playground */,
+				838BA06E19A1F36900ECF13A /* Inheritance.playground */,
+				838BA06F19A1F36900ECF13A /* Initialization.playground */,
+				838BA07019A1F36900ECF13A /* Methods.playground */,
+				838BA07119A1F36900ECF13A /* Nested Types.playground */,
+				838BA07219A1F36900ECF13A /* Optional Chaining.playground */,
+				838BA07319A1F36900ECF13A /* Properties.playground */,
+				838BA07419A1F36900ECF13A /* Subscripts.playground */,
+				838BA07519A1F36900ECF13A /* Type Casting.playground */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		838BA06219A1F31400ECF13A /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0600;
+			};
+			buildConfigurationList = 838BA06519A1F31400ECF13A /* Build configuration list for PBXProject "swift-learn-and-demo" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 838BA06119A1F31400ECF13A;
+			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = 8334FC2819A1FE0C0040B8C0 /* Products */;
+					ProjectRef = 8334FC2719A1FE0C0040B8C0 /* com.iceinto.avoscloud.xcodeproj */;
+				},
+			);
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXReferenceProxy section */
+		8334FC2D19A1FE0D0040B8C0 /* com.iceinto.avoscloud.app */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.application;
+			path = com.iceinto.avoscloud.app;
+			remoteRef = 8334FC2C19A1FE0D0040B8C0 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		8334FC2F19A1FE0D0040B8C0 /* com.iceinto.avoscloudTests.xctest */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = com.iceinto.avoscloudTests.xctest;
+			remoteRef = 8334FC2E19A1FE0D0040B8C0 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
+
+/* Begin XCBuildConfiguration section */
+		838BA06619A1F31400ECF13A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		838BA06719A1F31400ECF13A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		838BA06519A1F31400ECF13A /* Build configuration list for PBXProject "swift-learn-and-demo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				838BA06619A1F31400ECF13A /* Debug */,
+				838BA06719A1F31400ECF13A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 838BA06219A1F31400ECF13A /* Project object */;
+}
