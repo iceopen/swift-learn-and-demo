@@ -13,9 +13,16 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
                // Do any additional setup after loading the view, typically from a nib.
-        var testObject:AVObject = AVObject(className: "TestObject")
-        testObject["foo"] = "bar"
-        testObject.save()
+        //var testObject:AVObject = AVObject(className: "TestObject")
+        //testObject["foo"] = "bar"
+        //testObject.save()
+        
+        var user:AVUser = AVUser()
+        user.username = "iceinto"
+        user.password = "mohoo"
+        user.signUpInBackgroundWithBlock(block: AVBooleanResultBlock(Bool(), NSError())?){
+        }
+
     }
 
     override func didReceiveMemoryWarning() {
